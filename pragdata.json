@@ -1,0 +1,1595 @@
+[
+  {
+    "id": 1,
+    "title": "MedGemma — Modelo Médico DeepMind",
+    "description": "Modelo de IA para aplicaciones médicas de Google DeepMind basado en Gemma.",
+    "category": "ia-ml",
+    "tags": [
+      "gemma",
+      "médico",
+      "deepmind"
+    ],
+    "url": "https://deepmind.google/models/gemma/medgemma/",
+    "rating": 5,
+    "relatedIds": [
+      2,
+      6,
+      51,
+      83
+    ]
+  },
+  {
+    "id": 2,
+    "title": "AirLLM — Inferencia LLM Optimizada",
+    "description": "Framework para ejecutar modelos de lenguaje en hardware limitado con técnicas avanzadas de cuantización.",
+    "category": "ia-ml",
+    "tags": [
+      "llm",
+      "inferencia",
+      "cuantización"
+    ],
+    "url": "https://github.com/lyogavin/airllm",
+    "rating": 4,
+    "relatedIds": [
+      1,
+      27,
+      28,
+      48
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Hermes Agent — Agente de IA Autónomo",
+    "description": "Agente de inteligencia artificial de Nous Research con capacidades avanzadas de razonamiento.",
+    "category": "ia-ml",
+    "tags": [
+      "agente",
+      "hermes",
+      "nous"
+    ],
+    "url": "https://github.com/nousresearch/hermes-agent",
+    "rating": 5,
+    "relatedIds": [
+      20,
+      22,
+      50
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Kokoro TTS — NVIDIA ONNX Optimizado",
+    "description": "Modelo texto a voz de NVIDIA con 82M de parámetros optimizado con ONNX para inferencia ultrarrápida.",
+    "category": "audio-voz",
+    "tags": [
+      "tts",
+      "nvidia",
+      "kokoro",
+      "onnx"
+    ],
+    "url": "https://huggingface.co/nvidia/kokoro-82M-onnx-opt",
+    "rating": 5,
+    "relatedIds": [
+      5,
+      6,
+      15,
+      14
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Wav2Lip — Sincronización Labial Precisa",
+    "description": "Sincroniza automáticamente el movimiento de labios en video con cualquier audio de entrada.",
+    "category": "audio-voz",
+    "tags": [
+      "labios",
+      "sincronización",
+      "video",
+      "wav2lip"
+    ],
+    "url": "https://github.com/Rudrabha/Wav2Lip",
+    "rating": 4,
+    "relatedIds": [
+      4,
+      6,
+      15,
+      18,
+      45
+    ]
+  },
+  {
+    "id": 6,
+    "title": "SadTalker — Animación Facial 3D Realista",
+    "description": "Genera animaciones faciales 3D a partir de audio y una sola imagen.",
+    "category": "audio-voz",
+    "tags": [
+      "animación",
+      "facial",
+      "3d",
+      "sadtalker"
+    ],
+    "url": "https://github.com/OpenTalker/SadTalker",
+    "rating": 4,
+    "relatedIds": [
+      4,
+      5,
+      11,
+      15,
+      19,
+      52
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Polymarket Alpha Bot",
+    "description": "Bot de trading algorítmico para Polymarket que analiza patrones y ejecuta operaciones.",
+    "category": "finanzas-trading",
+    "tags": [
+      "polymarket",
+      "bot",
+      "trading",
+      "alpha"
+    ],
+    "url": "https://github.com/chainstacklabs/polymarket-alpha-bot",
+    "rating": 4,
+    "relatedIds": [
+      8,
+      10,
+      21,
+      49,
+      41
+    ]
+  },
+  {
+    "id": 8,
+    "title": "5min BTC Polymarket — Análisis Rápido",
+    "description": "Herramienta para análisis de Bitcoin en intervalos de 5 minutos con integración a Polymarket.",
+    "category": "finanzas-trading",
+    "tags": [
+      "bitcoin",
+      "polymarket",
+      "corto-plazo"
+    ],
+    "url": "https://github.com/Novals83/5min-btc-polymarket",
+    "rating": 3,
+    "relatedIds": [
+      7,
+      10,
+      56
+    ]
+  },
+  {
+    "id": 9,
+    "title": "yFinance — Datos Financieros Python",
+    "description": "Librería para descargar datos históricos y en tiempo real de Yahoo Finance.",
+    "category": "finanzas-trading",
+    "tags": [
+      "yfinance",
+      "datos",
+      "python",
+      "acciones"
+    ],
+    "url": "https://github.com/ranaroussi/yfinance",
+    "rating": 5,
+    "relatedIds": [
+      10,
+      21,
+      23,
+      25
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Quant Mind — IA Cuantitativa para Finanzas",
+    "description": "Framework de análisis cuantitativo potenciado por IA para modelado y backtesting.",
+    "category": "finanzas-trading",
+    "tags": [
+      "quant",
+      "finanzas",
+      "ia",
+      "backtesting"
+    ],
+    "url": "https://github.com/LLMQuant/quant-mind",
+    "rating": 4,
+    "relatedIds": [
+      9,
+      21,
+      23,
+      41
+    ]
+  },
+  {
+    "id": 11,
+    "title": "KalidoKit — Captura de Movimiento en Navegador",
+    "description": "Librería para captura de movimiento corporal completo usando solo cámara web.",
+    "category": "diseno-3d",
+    "tags": [
+      "mocap",
+      "captura",
+      "webcam",
+      "kalido"
+    ],
+    "url": "https://github.com/yeemachine/kalidokit",
+    "rating": 4,
+    "relatedIds": [
+      6,
+      12,
+      18,
+      19
+    ]
+  },
+  {
+    "id": 12,
+    "title": "SysMocap — Captura de Movimiento del Sistema",
+    "description": "Sistema de captura de movimiento con tracking preciso en tiempo real.",
+    "category": "diseno-3d",
+    "tags": [
+      "mocap",
+      "tracking",
+      "sistema"
+    ],
+    "url": "https://github.com/xianfei/SysMocap",
+    "rating": 3,
+    "relatedIds": [
+      11,
+      18
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Sketch2Motion — De Boceto a Animación",
+    "description": "Convierte bocetos 2D en animaciones de movimiento utilizando IA.",
+    "category": "diseno-3d",
+    "tags": [
+      "boceto",
+      "animación",
+      "2d",
+      "sketch"
+    ],
+    "url": "https://github.com/leeyeel/Sketch2Motion",
+    "rating": 4,
+    "relatedIds": [
+      11,
+      18,
+      42,
+      47
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Supertonic — Audio AI de Supertone",
+    "description": "Tecnología de IA para procesamiento de audio de nivel profesional (HYBE).",
+    "category": "audio-voz",
+    "tags": [
+      "audio",
+      "procesamiento",
+      "supertone",
+      "música"
+    ],
+    "url": "https://github.com/supertone-inc/supertonic",
+    "rating": 4,
+    "relatedIds": [
+      4,
+      15
+    ]
+  },
+  {
+    "id": 15,
+    "title": "VoiceBox — Clonación de Voz Avanzada",
+    "description": "Sistema de clonación de voz con generación de habla natural de alta fidelidad.",
+    "category": "audio-voz",
+    "tags": [
+      "voz",
+      "clonación",
+      "voicebox",
+      "síntesis"
+    ],
+    "url": "https://github.com/jamiepine/voicebox",
+    "rating": 5,
+    "relatedIds": [
+      4,
+      5,
+      6,
+      14,
+      16,
+      45
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Free Voice Clone — Clonación de Voz Gratuita",
+    "description": "Herramienta gratuita para clonación de voz con calidad aceptable para prototipado.",
+    "category": "audio-voz",
+    "tags": [
+      "voz",
+      "clonación",
+      "gratis",
+      "prototipo"
+    ],
+    "url": "https://github.com/0xSojalSec/free-voice-clone",
+    "rating": 3,
+    "relatedIds": [
+      15,
+      4
+    ]
+  },
+  {
+    "id": 17,
+    "title": "OpenAlice — Agente de Trading Autónomo",
+    "description": "Plataforma de trading con agentes autónomos que operan en múltiples mercados.",
+    "category": "finanzas-trading",
+    "tags": [
+      "trading",
+      "agente",
+      "alice",
+      "autónomo"
+    ],
+    "url": "https://github.com/TraderAlice/OpenAlice",
+    "rating": 4,
+    "relatedIds": [
+      10,
+      21,
+      3,
+      68
+    ]
+  },
+  {
+    "id": 18,
+    "title": "OpenMontage — Montaje de Video Inteligente",
+    "description": "Herramienta de edición de video automatizada con IA para montaje inteligente.",
+    "category": "diseno-3d",
+    "tags": [
+      "video",
+      "montaje",
+      "edición",
+      "ia"
+    ],
+    "url": "https://github.com/calesthio/OpenMontage",
+    "rating": 3,
+    "relatedIds": [
+      5,
+      6,
+      42,
+      45
+    ]
+  },
+  {
+    "id": 19,
+    "title": "AvatarAI — Generación de Avatares con IA",
+    "description": "Sistema completo para generar avatares digitales interactivos usando modelos de difusión.",
+    "category": "diseno-3d",
+    "tags": [
+      "avatar",
+      "ia",
+      "generación",
+      "digital"
+    ],
+    "url": "https://github.com/Washim-8/AvatarAI",
+    "rating": 4,
+    "relatedIds": [
+      6,
+      11,
+      15
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Be More Agent — Framework de Agentes",
+    "description": "Framework ligero para crear agentes de IA con herramientas y memoria contextual.",
+    "category": "ia-ml",
+    "tags": [
+      "agente",
+      "framework",
+      "herramientas"
+    ],
+    "url": "https://github.com/brenpoly/be-more-agent",
+    "rating": 3,
+    "relatedIds": [
+      3,
+      22
+    ]
+  },
+  {
+    "id": 21,
+    "title": "AI Trading Agent Gemini",
+    "description": "Agente de trading impulsado por Gemini que analiza noticias y ejecuta operaciones.",
+    "category": "finanzas-trading",
+    "tags": [
+      "trading",
+      "gemini",
+      "ia",
+      "noticias"
+    ],
+    "url": "https://github.com/danilobatson/ai-trading-agent-gemini",
+    "rating": 4,
+    "relatedIds": [
+      10,
+      17,
+      7
+    ]
+  },
+  {
+    "id": 22,
+    "title": "Awesome Agent Skills — Catálogo de Habilidades",
+    "description": "Repositorio curado de habilidades y herramientas para agentes de IA.",
+    "category": "ia-ml",
+    "tags": [
+      "agente",
+      "habilidades",
+      "catálogo",
+      "skills"
+    ],
+    "url": "https://github.com/VoltAgent/awesome-agent-skills",
+    "rating": 5,
+    "relatedIds": [
+      3,
+      20
+    ]
+  },
+  {
+    "id": 23,
+    "title": "The Well — Datasets Científicos Curados",
+    "description": "Colección de datasets científicos de alta calidad para entrenamiento de modelos IA.",
+    "category": "datos-osint",
+    "tags": [
+      "dataset",
+      "científico",
+      "entrenamiento",
+      "polymathic"
+    ],
+    "url": "https://github.com/polymathicai/the_well",
+    "rating": 4,
+    "relatedIds": [
+      1,
+      10,
+      40,
+      61,
+      64
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Aegis OSINT Map — Mapeo de Inteligencia",
+    "description": "Herramienta de mapeo OSINT que visualiza relaciones entre datos, eventos y actores.",
+    "category": "datos-osint",
+    "tags": [
+      "osint",
+      "mapa",
+      "inteligencia",
+      "visualización"
+    ],
+    "url": "https://github.com/FNBIP/aegis-osint-map",
+    "rating": 4,
+    "relatedIds": [
+      7,
+      40,
+      64
+    ]
+  },
+  {
+    "id": 25,
+    "title": "Maxun — Web Scraping sin Código",
+    "description": "Plataforma de web scraping automatizado que extrae datos sin programación.",
+    "category": "datos-osint",
+    "tags": [
+      "scraping",
+      "datos",
+      "nocode",
+      "extracción"
+    ],
+    "url": "https://github.com/getmaxun/maxun",
+    "rating": 4,
+    "relatedIds": [
+      24,
+      40,
+      9,
+      70,
+      72
+    ]
+  },
+  {
+    "id": 26,
+    "title": "LEANN — Embeddings Eficientes",
+    "description": "Sistema de embeddings ligeros para búsqueda semántica y recuperación a gran escala.",
+    "category": "ia-ml",
+    "tags": [
+      "embeddings",
+      "búsqueda",
+      "semántica",
+      "eficiente"
+    ],
+    "url": "https://github.com/yichuan-w/LEANN",
+    "rating": 4,
+    "relatedIds": [
+      2,
+      27,
+      72
+    ]
+  },
+  {
+    "id": 27,
+    "title": "Ollama — LLMs Locales Simplificados",
+    "description": "Plataforma para ejecutar modelos de lenguaje grandes localmente con interfaz simple.",
+    "category": "infra-llm",
+    "tags": [
+      "ollama",
+      "llm",
+      "local",
+      "inferencia"
+    ],
+    "url": "https://github.com/ollama/ollama",
+    "rating": 5,
+    "relatedIds": [
+      28,
+      29,
+      2,
+      39,
+      55
+    ]
+  },
+  {
+    "id": 28,
+    "title": "Jan — Alternativa Open Source a ChatGPT",
+    "description": "Cliente de escritorio open source para LLMs locales con soporte multi-backend.",
+    "category": "infra-llm",
+    "tags": [
+      "jan",
+      "chat",
+      "local",
+      "open-source"
+    ],
+    "url": "https://github.com/janhq/jan",
+    "rating": 5,
+    "relatedIds": [
+      27,
+      29
+    ]
+  },
+  {
+    "id": 29,
+    "title": "NextChat — ChatGPT WebUI Avanzada",
+    "description": "Interfaz web moderna para interactuar con múltiples proveedores de LLM.",
+    "category": "infra-llm",
+    "tags": [
+      "chat",
+      "webui",
+      "nextchat",
+      "multimodelo"
+    ],
+    "url": "https://github.com/chatgptnextweb/nextchat",
+    "rating": 4,
+    "relatedIds": [
+      27,
+      28
+    ]
+  },
+  {
+    "id": 30,
+    "title": "LocalSend — Transferencia Local de Archivos",
+    "description": "Aplicación open source para transferir archivos entre dispositivos en red local.",
+    "category": "compartir-archivos",
+    "tags": [
+      "transferencia",
+      "local",
+      "p2p",
+      "archivos"
+    ],
+    "url": "https://github.com/localsend/localsend",
+    "rating": 5,
+    "relatedIds": [
+      31,
+      32,
+      33,
+      84
+    ]
+  },
+  {
+    "id": 31,
+    "title": "OnionShare — Compartición Segura con Tor",
+    "description": "Comparte archivos de forma anónima y segura usando la red Tor.",
+    "category": "compartir-archivos",
+    "tags": [
+      "tor",
+      "anónimo",
+      "seguro",
+      "compartir"
+    ],
+    "url": "https://github.com/onionshare/onionshare",
+    "rating": 4,
+    "relatedIds": [
+      30,
+      32,
+      35,
+      36,
+      57,
+      80,
+      82
+    ]
+  },
+  {
+    "id": 32,
+    "title": "FilePizza — Transferencia P2P Directa",
+    "description": "Transferencia de archivos peer-to-peer en el navegador usando WebRTC.",
+    "category": "compartir-archivos",
+    "tags": [
+      "p2p",
+      "webrtc",
+      "archivos",
+      "navegador"
+    ],
+    "url": "https://github.com/kern/filepizza",
+    "rating": 4,
+    "relatedIds": [
+      30,
+      33
+    ]
+  },
+  {
+    "id": 33,
+    "title": "Magic Wormhole — Transferencia Segura Simple",
+    "description": "Transfiere archivos de forma segura con un código de un solo uso (Rust).",
+    "category": "compartir-archivos",
+    "tags": [
+      "seguro",
+      "código",
+      "rust",
+      "transferencia"
+    ],
+    "url": "https://github.com/magic-wormhole/magic-wormhole.rs",
+    "rating": 4,
+    "relatedIds": [
+      30,
+      32,
+      43
+    ]
+  },
+  {
+    "id": 34,
+    "title": "Penpot — Diseño Open Source",
+    "description": "Plataforma de diseño y prototipado colaborativa, alternativa a Figma.",
+    "category": "diseno-3d",
+    "tags": [
+      "diseño",
+      "prototipado",
+      "open-source",
+      "colaboración"
+    ],
+    "url": "https://github.com/penpot/penpot",
+    "rating": 5,
+    "relatedIds": [
+      42,
+      58,
+      59,
+      67,
+      79
+    ]
+  },
+  {
+    "id": 35,
+    "title": "PortMaster — Firewall de Privacidad",
+    "description": "Monitor de red y firewall que bloquea conexiones no deseadas y rastreadores.",
+    "category": "privacidad-seguridad",
+    "tags": [
+      "firewall",
+      "privacidad",
+      "red",
+      "monitor"
+    ],
+    "url": "https://github.com/safing/portmaster",
+    "rating": 4,
+    "relatedIds": [
+      31,
+      36,
+      37,
+      38,
+      75,
+      81,
+      82
+    ]
+  },
+  {
+    "id": 36,
+    "title": "Vaultwarden — Gestor de Contraseñas Self-Hosted",
+    "description": "Servidor Bitwarden ligero en Rust para gestionar contraseñas de forma privada.",
+    "category": "privacidad-seguridad",
+    "tags": [
+      "contraseñas",
+      "vault",
+      "bitwarden",
+      "self-hosted"
+    ],
+    "url": "https://github.com/dani-garcia/vaultwarden",
+    "rating": 5,
+    "relatedIds": [
+      35,
+      31,
+      39,
+      46,
+      57
+    ]
+  },
+  {
+    "id": 37,
+    "title": "FreeTube — YouTube sin Rastreo",
+    "description": "Cliente de YouTube de escritorio sin anuncios ni seguimiento.",
+    "category": "privacidad-seguridad",
+    "tags": [
+      "youtube",
+      "privacidad",
+      "sin-rastreo",
+      "cliente"
+    ],
+    "url": "https://github.com/FreeTubeApp/FreeTube",
+    "rating": 4,
+    "relatedIds": [
+      35,
+      66,
+      82
+    ]
+  },
+  {
+    "id": 38,
+    "title": "Frigate — NVR con IA Local",
+    "description": "Sistema de videovigilancia con detección de objetos por IA ejecutándose localmente.",
+    "category": "privacidad-seguridad",
+    "tags": [
+      "nvr",
+      "videovigilancia",
+      "ia",
+      "local"
+    ],
+    "url": "https://github.com/blakeblackshear/frigate",
+    "rating": 5,
+    "relatedIds": [
+      35,
+      27,
+      39
+    ]
+  },
+  {
+    "id": 39,
+    "title": "CasaOS — Sistema Operativo del Hogar",
+    "description": "SO ligero para gestionar aplicaciones self-hosted con interfaz visual.",
+    "category": "desarrollo-tools",
+    "tags": [
+      "casa",
+      "self-hosted",
+      "hogar",
+      "nas"
+    ],
+    "url": "https://github.com/icewhaletech/casaos",
+    "rating": 4,
+    "relatedIds": [
+      27,
+      36,
+      38,
+      55,
+      62,
+      63,
+      75,
+      76
+    ]
+  },
+  {
+    "id": 40,
+    "title": "Awesome Public Datasets — Datos Abiertos",
+    "description": "Lista curada de datasets públicos de alta calidad por tema.",
+    "category": "datos-osint",
+    "tags": [
+      "datasets",
+      "públicos",
+      "abiertos",
+      "curado"
+    ],
+    "url": "https://github.com/awesomedata/awesome-public-datasets",
+    "rating": 5,
+    "relatedIds": [
+      23,
+      24,
+      25,
+      61
+    ]
+  },
+  {
+    "id": 41,
+    "title": "Shadowbroker — Toolkit de Análisis",
+    "description": "Conjunto de herramientas para análisis de datos financieros y de mercado.",
+    "category": "finanzas-trading",
+    "tags": [
+      "análisis",
+      "toolkit",
+      "finanzas",
+      "datos"
+    ],
+    "url": "https://github.com/BigBodyCobain/Shadowbroker",
+    "rating": 3,
+    "relatedIds": [
+      7,
+      10,
+      24
+    ]
+  },
+  {
+    "id": 42,
+    "title": "SVG to 3D — Conversión de Vectores a 3D",
+    "description": "Convierte archivos SVG en modelos 3D utilizables para diseñadores.",
+    "category": "diseno-3d",
+    "tags": [
+      "svg",
+      "3d",
+      "conversión",
+      "vectores"
+    ],
+    "url": "https://3daistudio.com/svgTo3D",
+    "rating": 4,
+    "relatedIds": [
+      13,
+      34,
+      47,
+      58
+    ]
+  },
+  {
+    "id": 43,
+    "title": "Comprehensive Rust — Curso de Google",
+    "description": "Curso completo de Rust desde fundamentos hasta programación avanzada de sistemas.",
+    "category": "educacion-ref",
+    "tags": [
+      "rust",
+      "curso",
+      "google",
+      "programación"
+    ],
+    "url": "https://google.github.io/comprehensive-rust",
+    "rating": 5,
+    "relatedIds": [
+      33,
+      44,
+      77
+    ]
+  },
+  {
+    "id": 44,
+    "title": "MIT OCW — Cursos del MIT Abiertos",
+    "description": "Plataforma de cursos abiertos del MIT con materiales completos.",
+    "category": "educacion-ref",
+    "tags": [
+      "mit",
+      "cursos",
+      "educación",
+      "abierto"
+    ],
+    "url": "https://ocw.mit.edu",
+    "rating": 5,
+    "relatedIds": [
+      43,
+      77
+    ]
+  },
+  {
+    "id": 45,
+    "title": "MoneyPrinterTurbo — Generación de Video IA",
+    "description": "Herramienta automatizada para generar videos completos con IA.",
+    "category": "audio-voz",
+    "tags": [
+      "video",
+      "generación",
+      "ia",
+      "automatizado"
+    ],
+    "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+    "rating": 4,
+    "relatedIds": [
+      4,
+      5,
+      15,
+      18
+    ]
+  },
+  {
+    "id": 46,
+    "title": "DocuSeal — Firmas Digitales Open Source",
+    "description": "Plataforma de firma digital de documentos, alternativa a DocuSign.",
+    "category": "desarrollo-tools",
+    "tags": [
+      "firma",
+      "digital",
+      "documentos",
+      "open-source"
+    ],
+    "url": "https://github.com/docusealco/docuseal",
+    "rating": 4,
+    "relatedIds": [
+      36,
+      70,
+      80
+    ]
+  },
+  {
+    "id": 47,
+    "title": "Gloomberb — Motor de Juegos Ligero",
+    "description": "Motor de juegos minimalista para prototipos 3D interactivos.",
+    "category": "diseno-3d",
+    "tags": [
+      "motor",
+      "juegos",
+      "renderizado",
+      "ligero"
+    ],
+    "url": "https://github.com/vincelwt/gloomberb",
+    "rating": 3,
+    "relatedIds": [
+      13,
+      42
+    ]
+  },
+  {
+    "id": 48,
+    "title": "PMXT — Extensión de Modelos",
+    "description": "Herramienta para extender y personalizar LLMs con fine-tuning eficiente.",
+    "category": "ia-ml",
+    "tags": [
+      "extensión",
+      "modelos",
+      "fine-tuning",
+      "pmxt"
+    ],
+    "url": "https://github.com/pmxt-dev/pmxt",
+    "rating": 3,
+    "relatedIds": [
+      2,
+      27,
+      71
+    ]
+  },
+  {
+    "id": 49,
+    "title": "Polymarket MCP Server",
+    "description": "Servidor MCP para integración de datos de Polymarket con agentes de IA.",
+    "category": "finanzas-trading",
+    "tags": [
+      "polymarket",
+      "mcp",
+      "servidor",
+      "integración"
+    ],
+    "url": "https://github.com/caiovicentino/polymarket-mcp-server",
+    "rating": 4,
+    "relatedIds": [
+      7,
+      8,
+      17
+    ]
+  },
+  {
+    "id": 50,
+    "title": "CL4R1T4S — Jailbreak Prompts de IA",
+    "description": "Colección de prompts avanzados para explorar límites de modelos de lenguaje.",
+    "category": "ia-ml",
+    "tags": [
+      "jailbreak",
+      "prompts",
+      "seguridad",
+      "exploración"
+    ],
+    "url": "https://github.com/elder-plinius/CL4R1T4S",
+    "rating": 3,
+    "relatedIds": [
+      3,
+      22
+    ]
+  },
+  {
+    "id": 51,
+    "title": "OpenMed Life",
+    "description": "Plataforma de código abierto para aplicaciones médicas en tiempo real.",
+    "category": "ia-ml",
+    "tags": [
+      "médico",
+      "open-source",
+      "salud",
+      "tiempo-real"
+    ],
+    "url": "https://openmed.life/#apple-runtime",
+    "rating": 3,
+    "relatedIds": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": 52,
+    "title": "Meetily",
+    "description": "Aplicación de videoconferencia con IA para transcripción y análisis.",
+    "category": "ia-ml",
+    "tags": [
+      "videoconferencia",
+      "transcripción",
+      "análisis"
+    ],
+    "url": "https://github.com/Zackriya-Solutions/meetily",
+    "rating": 3,
+    "relatedIds": [
+      1,
+      6
+    ]
+  },
+  {
+    "id": 53,
+    "title": "Chordu — Gypsy of Atonement",
+    "description": "Acordes y tablatura de Gypsy of Atonement.",
+    "category": "ocio-cultura",
+    "tags": [
+      "música",
+      "acordes",
+      "guitarra"
+    ],
+    "url": "https://chordu.com/chords-tabs-track-17-gypsy-of-atonement-id_yBJFDL83S64",
+    "rating": 3,
+    "relatedIds": [
+      54
+    ]
+  },
+  {
+    "id": 54,
+    "title": "Chordu — Bodhisattva Cathedral",
+    "description": "Acordes de Bodhisattva Cathedral (Hellsing OST).",
+    "category": "ocio-cultura",
+    "tags": [
+      "música",
+      "acordes",
+      "anime"
+    ],
+    "url": "https://chordu.com/chords-tabs-bodhisattva-cathedral-hellsing-ost-id_q1GVsc1_hTk",
+    "rating": 3,
+    "relatedIds": [
+      53
+    ]
+  },
+  {
+    "id": 55,
+    "title": "Linux Android",
+    "description": "Scripts para ejecutar un entorno Linux completo en dispositivos Android.",
+    "category": "desarrollo-tools",
+    "tags": [
+      "linux",
+      "android",
+      "termux",
+      "entorno"
+    ],
+    "url": "https://github.com/mayukh4/linux-android",
+    "rating": 4,
+    "relatedIds": [
+      39,
+      27,
+      62
+    ]
+  },
+  {
+    "id": 56,
+    "title": "FBM Sniper Community",
+    "description": "Bot de sniper para Facebook Marketplace con estrategias de puja automática.",
+    "category": "finanzas-trading",
+    "tags": [
+      "sniper",
+      "facebook",
+      "marketplace",
+      "bot"
+    ],
+    "url": "https://github.com/ethanashi/fbm-sniper-community",
+    "rating": 3,
+    "relatedIds": [
+      7,
+      8
+    ]
+  },
+  {
+    "id": 57,
+    "title": "Parlor",
+    "description": "Aplicación de chat social minimalista con canales temáticos y cifrado.",
+    "category": "privacidad-seguridad",
+    "tags": [
+      "chat",
+      "social",
+      "cifrado",
+      "minimalista"
+    ],
+    "url": "https://github.com/fikrikarim/parlor",
+    "rating": 3,
+    "relatedIds": [
+      31,
+      36
+    ]
+  },
+  {
+    "id": 58,
+    "title": "Blueprint",
+    "description": "Plataforma de diseño y prototipado rápido para interfaces web.",
+    "category": "diseno-3d",
+    "tags": [
+      "diseño",
+      "prototipado",
+      "ui",
+      "web"
+    ],
+    "url": "https://blueprint.am",
+    "rating": 4,
+    "relatedIds": [
+      34,
+      42
+    ]
+  },
+  {
+    "id": 59,
+    "title": "ACE Step UI",
+    "description": "Componentes de interfaz de usuario paso a paso para flujos complejos.",
+    "category": "desarrollo-tools",
+    "tags": [
+      "ui",
+      "componentes",
+      "flujo",
+      "paso"
+    ],
+    "url": "https://github.com/fspecii/ace-step-ui",
+    "rating": 3,
+    "relatedIds": [
+      34
+    ]
+  },
+  {
+    "id": 60,
+    "title": "Modly",
+    "description": "Herramienta para modificar y personalizar aplicaciones web en tiempo real.",
+    "category": "desarrollo-tools",
+    "tags": [
+      "mod",
+      "personalización",
+      "web",
+      "tiempo-real"
+    ],
+    "url": "https://github.com/lightningpixel/modly",
+    "rating": 3,
+    "relatedIds": []
+  },
+  {
+    "id": 61,
+    "title": "SDI Protocol Foundations",
+    "description": "Fundamentos del protocolo SDI para datos descentralizados e interoperables.",
+    "category": "datos-osint",
+    "tags": [
+      "sdi",
+      "protocolo",
+      "descentralizado",
+      "datos"
+    ],
+    "url": "https://sdi-protocol.org/foundations",
+    "rating": 4,
+    "relatedIds": [
+      23,
+      40
+    ]
+  },
+  {
+    "id": 62,
+    "title": "WebVM",
+    "description": "Máquina virtual completa ejecutándose en el navegador usando WebAssembly.",
+    "category": "desarrollo-tools",
+    "tags": [
+      "webvm",
+      "virtual",
+      "wasm",
+      "navegador"
+    ],
+    "url": "https://webvm.io",
+    "rating": 5,
+    "relatedIds": [
+      55,
+      39
+    ]
+  },
+  {
+    "id": 63,
+    "title": "ServerKit",
+    "description": "Kit de herramientas para desplegar y gestionar servidores ligeros.",
+    "category": "desarrollo-tools",
+    "tags": [
+      "server",
+      "kit",
+      "despliegue",
+      "ligero"
+    ],
+    "url": "https://github.com/jhd3197/ServerKit",
+    "rating": 3,
+    "relatedIds": [
+      39
+    ]
+  },
+  {
+    "id": 64,
+    "title": "Map3D",
+    "description": "Visualización de datos geoespaciales en 3D sobre mapas interactivos.",
+    "category": "datos-osint",
+    "tags": [
+      "mapa",
+      "3d",
+      "geoespacial",
+      "visualización"
+    ],
+    "url": "https://github.com/cartesiancs/map3d",
+    "rating": 4,
+    "relatedIds": [
+      24,
+      23
+    ]
+  },
+  {
+    "id": 65,
+    "title": "Acordes Over the Garden Wall",
+    "description": "Tab de guitarra de Over the Garden Wall - The Fight is Over.",
+    "category": "ocio-cultura",
+    "tags": [
+      "música",
+      "guitarra",
+      "tab",
+      "serie"
+    ],
+    "url": "https://tabs.ultimate-guitar.com/tab/misc-cartoons/over-the-garden-wall-the-fight-is-over-chords-2613735",
+    "rating": 3,
+    "relatedIds": []
+  },
+  {
+    "id": 66,
+    "title": "Get It — Descargador Multimedia",
+    "description": "Descargador universal de contenido multimedia desde múltiples fuentes.",
+    "category": "ocio-cultura",
+    "tags": [
+      "descarga",
+      "multimedia",
+      "universal",
+      "contenido"
+    ],
+    "url": "https://github.com/beltromatti/get-it",
+    "rating": 3,
+    "relatedIds": [
+      37
+    ]
+  },
+  {
+    "id": 67,
+    "title": "Vesta Workspace",
+    "description": "Espacio de trabajo colaborativo con pizarras, notas y gestor de tareas.",
+    "category": "desarrollo-tools",
+    "tags": [
+      "workspace",
+      "colaborativo",
+      "pizarra",
+      "tareas"
+    ],
+    "url": "https://github.com/Yasinnet0/Vesta-WorkSpace",
+    "rating": 3,
+    "relatedIds": [
+      34
+    ]
+  },
+  {
+    "id": 68,
+    "title": "Voltius",
+    "description": "Aplicación de trading social con señales y copytrading.",
+    "category": "finanzas-trading",
+    "tags": [
+      "trading",
+      "social",
+      "señales",
+      "copia"
+    ],
+    "url": "https://github.com/VoltiusApp/voltius",
+    "rating": 3,
+    "relatedIds": [
+      7,
+      17
+    ]
+  },
+  {
+    "id": 69,
+    "title": "Recordly",
+    "description": "Grabadora de pantalla y audio para navegador con anotaciones.",
+    "category": "desarrollo-tools",
+    "tags": [
+      "grabadora",
+      "pantalla",
+      "audio",
+      "anotaciones"
+    ],
+    "url": "https://github.com/webadderallorg/Recordly",
+    "rating": 3,
+    "relatedIds": []
+  },
+  {
+    "id": 70,
+    "title": "Papra",
+    "description": "Gestor documental con OCR y búsqueda inteligente.",
+    "category": "datos-osint",
+    "tags": [
+      "documentos",
+      "ocr",
+      "búsqueda",
+      "gestor"
+    ],
+    "url": "https://github.com/papra-hq/papra",
+    "rating": 4,
+    "relatedIds": [
+      46,
+      25
+    ]
+  },
+  {
+    "id": 71,
+    "title": "Dograh",
+    "description": "Plataforma de adopción de mascotas con IA de matching.",
+    "category": "ia-ml",
+    "tags": [
+      "mascotas",
+      "adopción",
+      "matching",
+      "ia"
+    ],
+    "url": "https://github.com/dograh-hq/dograh",
+    "rating": 3,
+    "relatedIds": [
+      1,
+      48
+    ]
+  },
+  {
+    "id": 72,
+    "title": "GitIngest",
+    "description": "Herramienta para ingestar repositorios Git y analizarlos con IA.",
+    "category": "desarrollo-tools",
+    "tags": [
+      "git",
+      "ingesta",
+      "análisis",
+      "ia"
+    ],
+    "url": "https://gitingest.com",
+    "rating": 4,
+    "relatedIds": [
+      25,
+      26,
+      73
+    ]
+  },
+  {
+    "id": 73,
+    "title": "Explain GitHub",
+    "description": "Explicaciones automáticas de repositorios de GitHub usando IA.",
+    "category": "ia-ml",
+    "tags": [
+      "github",
+      "explicación",
+      "ia",
+      "documentación"
+    ],
+    "url": "https://explaingithub.com",
+    "rating": 3,
+    "relatedIds": [
+      72,
+      1
+    ]
+  },
+  {
+    "id": 74,
+    "title": "HTML Video",
+    "description": "Reproductor de video optimizado para la web con controles personalizados.",
+    "category": "ocio-cultura",
+    "tags": [
+      "video",
+      "html",
+      "reproductor",
+      "personalizado"
+    ],
+    "url": "https://github.com/nexu-io/html-video",
+    "rating": 3,
+    "relatedIds": []
+  },
+  {
+    "id": 75,
+    "title": "ESP32 DIV Flasher",
+    "description": "Flasher web para el dispositivo ESP32 DIV.",
+    "category": "desarrollo-tools",
+    "tags": [
+      "esp32",
+      "flasher",
+      "iot",
+      "redes"
+    ],
+    "url": "https://raddad87.github.io/esp32-div-flasher",
+    "rating": 4,
+    "relatedIds": [
+      39,
+      35,
+      76
+    ]
+  },
+  {
+    "id": 76,
+    "title": "ESP32 DIV en PCBWay",
+    "description": "Proyecto del ESP32 DIV, navaja suiza para redes inalámbricas.",
+    "category": "desarrollo-tools",
+    "tags": [
+      "esp32",
+      "redes",
+      "pcb",
+      "proyecto"
+    ],
+    "url": "https://pcbway.com/project/shareproject/ESP32_DIV_Your_Swiss_Army_Knife_for_Wireless_Networks_246679b4.html",
+    "rating": 4,
+    "relatedIds": [
+      75
+    ]
+  },
+  {
+    "id": 77,
+    "title": "YouTube Playlist Técnica",
+    "description": "Lista de reproducción con tutoriales de desarrollo y hacking ético.",
+    "category": "educacion-ref",
+    "tags": [
+      "youtube",
+      "tutoriales",
+      "desarrollo",
+      "hacking"
+    ],
+    "url": "https://youtube.com/playlist?list=PLwydWA9gIJ2p14uvDDpcJkhcJB90Wm7PZ",
+    "rating": 4,
+    "relatedIds": [
+      43,
+      44
+    ]
+  },
+  {
+    "id": 78,
+    "title": "Caro-Kann Defense",
+    "description": "Estudio interactivo de la apertura de ajedrez Caro-Kann.",
+    "category": "ocio-cultura",
+    "tags": [
+      "chess",
+      "apertura",
+      "caro-kann",
+      "aprendizaje"
+    ],
+    "url": "https://chess.com/openings/Caro-Kann-Defense",
+    "rating": 4,
+    "relatedIds": []
+  },
+  {
+    "id": 79,
+    "title": "UI Skills",
+    "description": "Recursos y desafíos para mejorar habilidades de diseño UI.",
+    "category": "diseno-3d",
+    "tags": [
+      "ui",
+      "diseño",
+      "habilidades",
+      "recursos"
+    ],
+    "url": "https://ui-skills.com",
+    "rating": 3,
+    "relatedIds": [
+      34
+    ]
+  },
+  {
+    "id": 80,
+    "title": "Fileverse dDoc",
+    "description": "Documentos descentralizados con control de acceso.",
+    "category": "compartir-archivos",
+    "tags": [
+      "documentos",
+      "descentralizado",
+      "web3",
+      "control"
+    ],
+    "url": "https://github.com/fileverse/fileverse-ddoc",
+    "rating": 3,
+    "relatedIds": [
+      31,
+      46
+    ]
+  },
+  {
+    "id": 81,
+    "title": "FCK Signups",
+    "description": "Servicio que genera cuentas desechables para evitar registros.",
+    "category": "privacidad-seguridad",
+    "tags": [
+      "privacidad",
+      "desechable",
+      "registro",
+      "cuentas"
+    ],
+    "url": "https://fcksignups.com",
+    "rating": 3,
+    "relatedIds": [
+      35
+    ]
+  },
+  {
+    "id": 82,
+    "title": "Odysseus",
+    "description": "Navegador enfocado en privacidad y productividad.",
+    "category": "privacidad-seguridad",
+    "tags": [
+      "navegador",
+      "privacidad",
+      "productividad"
+    ],
+    "url": "https://github.com/pewdiepie-archdaemon/odysseus",
+    "rating": 3,
+    "relatedIds": [
+      35,
+      37
+    ]
+  },
+  {
+    "id": 83,
+    "title": "HttpSMS",
+    "description": "Envía y recibe SMS desde el navegador usando tu teléfono Android.",
+    "category": "desarrollo-tools",
+    "tags": [
+      "sms",
+      "navegador",
+      "teléfono",
+      "android"
+    ],
+    "url": "https://github.com/NdoleStudio/httpsms",
+    "rating": 3,
+    "relatedIds": []
+  },
+  {
+    "id": 84,
+    "title": "Torollo",
+    "description": "Cliente de Torrents ligero y moderno.",
+    "category": "ocio-cultura",
+    "tags": [
+      "torrent",
+      "cliente",
+      "p2p",
+      "ligero"
+    ],
+    "url": "https://github.com/Derssa/Torollo",
+    "rating": 3,
+    "relatedIds": [
+      30
+    ]
+  },
+  {
+    "id": 85,
+    "title": "HTML2EXE",
+    "description": "Convierte archivos HTML en ejecutables independientes.",
+    "category": "desarrollo-tools",
+    "tags": [
+      "html",
+      "exe",
+      "conversión",
+      "ejecutable"
+    ],
+    "url": "https://github.com/AdRohal/HTML2EXE",
+    "rating": 3,
+    "relatedIds": []
+  },
+  {
+    "id": 86,
+    "title": "prueba",
+    "category": "ia-ml",
+    "description": "dsafsdfas",
+    "tags": [
+      "inferencia"
+    ],
+    "url": "https://leantime.io/",
+    "rating": 3,
+    "relatedIds": [
+      1,
+      3
+    ],
+    "notes": "{\"problem\":\"fdfds\",\"opportunity\":\"fddfdf\",\"integration\":\"fdfdfdfdf\"}"
+  }
+]
