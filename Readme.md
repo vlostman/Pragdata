@@ -189,7 +189,7 @@ Este proyecto está licenciado bajo la **Licencia MIT**. Consulta el archivo `LI
 
 <p align="center">
   <a href="https://www.anaskai.com" target="_blank">
-    <img src="logo2.png" alt="Anaskai" width="48" style="border-radius: 8px; border: 1px solid rgba(255,159,28,0.3); padding: 4px;">
+    <img src="logo2.png" alt="Anaskai" width="96" style="border-radius: 8px; border: 1px solid rgba(255,159,28,0.3); padding: 4px;">
   </a>
 </p>
 
