@@ -59,7 +59,7 @@ Haz doble clic en `Pragdata.bat` y el servidor se inicia automáticamente.
 
 ### Opción 2: Servidor Python manual
 
-git clone https://github.com/tuusuario/pragdata.git
+git clone https://github.com/vlostman/pragdata.git
 cd pragdata
 python servidor.py
 
@@ -73,7 +73,7 @@ python app.py
 ---
 
 
-## ☁️ Despliegue en PythonAnywhere
+## ☁️ Despliegue en PythonAnywhere para pruebas online (opcional)
 
 1. Crea una cuenta gratuita en [pythonanywhere.com](https://www.pythonanywhere.com)
 2. Sube los archivos a la carpeta `mysite`: `index.html`, `app.py`, `pragdata.json`
